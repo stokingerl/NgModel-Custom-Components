@@ -1,0 +1,22 @@
+input {
+    width: 750px;
+    border-radius: 2px;
+    height: 35px;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+#hover-text {
+    display: none;
+    height: 40px;
+    width: 500px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+input:hover + #hover-text {
+    display: flex;
+}
