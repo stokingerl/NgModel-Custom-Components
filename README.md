@@ -2,7 +2,7 @@
 
 This is a working example of how to make a custom component in Angular 2.0+ (currently 4.0.0) while using the [(ngModel)] two-way binding attribute.
 
-This was originally explained in detail in [this article.](http://almerosteyn.com/2016/04/linkup-custom-control-to-ngcontrol-ngmodel)
+This was originally explained in detail in [this article](http://almerosteyn.com/2016/04/linkup-custom-control-to-ngcontrol-ngmodel) by [Almero Steyn.](https://twitter.com/kryptos_rsa) All credit for the original code and idea goes to him.
 
 This project takes it a step further and splits all of the boilerplate code into an abstract class that can be easily extended to allow you to use [(ngModel)] in any custom component you make.
 
