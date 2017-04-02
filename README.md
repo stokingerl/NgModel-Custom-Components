@@ -12,6 +12,8 @@ This example shows the basis for a shared custom forms module displaying:
 2. two way binding in this custom input tag using [(ngModel)]
 3. updated text in the parent component from the custom input tag.
 
+![Demo](https://media.giphy.com/media/3o7btWYOHOkdlbdlYY/giphy.gif)
+
 
 ## Angular CLI
 

@@ -17,5 +17,5 @@ export const CUSTOM_INPUT_CONTROL_VALUE_ACCESSOR: any = {
 })
 
 export class TestInputComponent extends NgModelBase {
-    hoverText = 'Wow, look at this custom hover text for your app.';
+    hoverText = 'Wow, look at this custom hover text for your input.';
 }
